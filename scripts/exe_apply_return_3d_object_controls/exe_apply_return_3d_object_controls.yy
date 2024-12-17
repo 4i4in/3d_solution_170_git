@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_apply_return_3d_object_controls",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_apply_return_3d_object_controls",
+  "parent":{
+    "name":"moves_func",
+    "path":"folders/Scripts/map3d/moves_func.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_return_controller",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_return_controller",
+  "parent":{
+    "name":"predefined_controls",
+    "path":"folders/Scripts/predefined_controls.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

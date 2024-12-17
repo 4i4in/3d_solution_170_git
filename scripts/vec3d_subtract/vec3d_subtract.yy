@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"vec3d_subtract",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"vec3d_subtract",
+  "parent":{
+    "name":"functions",
+    "path":"folders/Scripts/vbuffs/functions.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_return_struct_key_value",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_return_struct_key_value",
+  "parent":{
+    "name":"moves_on_3d_map",
+    "path":"folders/Scripts/moves_on_3d_map.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

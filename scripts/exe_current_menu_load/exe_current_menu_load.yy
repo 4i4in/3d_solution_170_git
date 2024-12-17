@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_current_menu_load",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_current_menu_load",
+  "parent":{
+    "name":"menu_templates",
+    "path":"folders/Scripts/menu_templates.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

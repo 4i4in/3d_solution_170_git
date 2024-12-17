@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_return_obj_and_array",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_return_obj_and_array",
+  "parent":{
+    "name":"obj_editor",
+    "path":"folders/Scripts/menu_templates/obj_editor.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

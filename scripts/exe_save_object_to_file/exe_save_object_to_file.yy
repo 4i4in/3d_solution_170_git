@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_save_object_to_file",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_save_object_to_file",
+  "parent":{
+    "name":"save_load_functions",
+    "path":"folders/Scripts/save_load_functions.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

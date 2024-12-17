@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"quaternion_to_euler",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"quaternion_to_euler",
+  "parent":{
+    "name":"moves_func",
+    "path":"folders/Scripts/map3d/moves_func.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

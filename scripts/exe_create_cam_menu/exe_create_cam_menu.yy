@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_create_cam_menu",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_create_cam_menu",
+  "parent":{
+    "name":"cam_menu",
+    "path":"folders/Scripts/menu_templates/cam_menu.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

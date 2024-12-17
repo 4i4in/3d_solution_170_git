@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_create_triangle",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_create_triangle",
+  "parent":{
+    "name":"functions",
+    "path":"folders/Scripts/vbuffs/functions.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_map3d_add_helpers_grid",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_map3d_add_helpers_grid",
+  "parent":{
+    "name":"helpers",
+    "path":"folders/Scripts/map3d/helpers.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

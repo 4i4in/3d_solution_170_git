@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_return_test_menu_struct",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_return_test_menu_struct",
+  "parent":{
+    "name":"test_menu",
+    "path":"folders/Scripts/menu_templates/test_menu.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

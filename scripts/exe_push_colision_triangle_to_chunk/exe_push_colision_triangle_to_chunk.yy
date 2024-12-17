@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_push_colision_triangle_to_chunk",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_push_colision_triangle_to_chunk",
+  "parent":{
+    "name":"colisions",
+    "path":"folders/Scripts/colisions.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

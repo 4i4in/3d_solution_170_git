@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_create_keyboard_menu",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_create_keyboard_menu",
+  "parent":{
+    "name":"keyboard_menu",
+    "path":"folders/Scripts/menu_templates/keyboard_menu.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

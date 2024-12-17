@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_return_no_control",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_return_no_control",
+  "parent":{
+    "name":"presets_controls",
+    "path":"folders/Scripts/predefined_controls/presets_controls.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

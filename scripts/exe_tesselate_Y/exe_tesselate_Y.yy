@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_tesselate_Y",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_tesselate_Y",
+  "parent":{
+    "name":"tesselate",
+    "path":"folders/Scripts/vbuffs/functions/tesselate.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

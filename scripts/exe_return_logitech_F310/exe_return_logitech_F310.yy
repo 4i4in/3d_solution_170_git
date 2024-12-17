@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_return_logitech_F310",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_return_logitech_F310",
+  "parent":{
+    "name":"pad_preset",
+    "path":"folders/Scripts/pad_functions/pad_preset.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

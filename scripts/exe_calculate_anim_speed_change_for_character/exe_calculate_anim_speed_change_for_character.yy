@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_calculate_anim_speed_change_for_character",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_calculate_anim_speed_change_for_character",
+  "parent":{
+    "name":"animations",
+    "path":"folders/Scripts/moves_on_3d_map/animations.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

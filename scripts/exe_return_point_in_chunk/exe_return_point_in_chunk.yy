@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_return_point_in_chunk",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_return_point_in_chunk",
+  "parent":{
+    "name":"colisions",
+    "path":"folders/Scripts/colisions.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

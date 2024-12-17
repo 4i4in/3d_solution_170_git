@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_simple_gameplay_control",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_simple_gameplay_control",
+  "parent":{
+    "name":"functions",
+    "path":"folders/Scripts/menu_templates/simple_gameplay_menu/functions.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

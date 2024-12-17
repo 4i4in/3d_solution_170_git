@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_grab_temporary_helpers_to_array",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_grab_temporary_helpers_to_array",
+  "parent":{
+    "name":"3d_drawing",
+    "path":"folders/Scripts/3d_drawing.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

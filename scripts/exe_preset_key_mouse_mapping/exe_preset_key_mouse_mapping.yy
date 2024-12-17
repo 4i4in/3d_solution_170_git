@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_preset_key_mouse_mapping",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_preset_key_mouse_mapping",
+  "parent":{
+    "name":"setup",
+    "path":"folders/Scripts/setup.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

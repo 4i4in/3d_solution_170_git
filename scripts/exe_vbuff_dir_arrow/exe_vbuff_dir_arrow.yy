@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_vbuff_dir_arrow",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_vbuff_dir_arrow",
+  "parent":{
+    "name":"vbuffs",
+    "path":"folders/Scripts/vbuffs.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

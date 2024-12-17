@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_change_show_pad",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_change_show_pad",
+  "parent":{
+    "name":"functions",
+    "path":"folders/Scripts/menu_templates/pad_menu/functions.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

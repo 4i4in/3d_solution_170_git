@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"vec_normalize",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"vec_normalize",
+  "parent":{
+    "name":"functions",
+    "path":"folders/Scripts/vbuffs/functions.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

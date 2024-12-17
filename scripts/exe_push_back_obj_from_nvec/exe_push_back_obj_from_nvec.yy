@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_push_back_obj_from_nvec",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_push_back_obj_from_nvec",
+  "parent":{
+    "name":"subscripts",
+    "path":"folders/Scripts/moves_on_3d_map/humanoid_sceleton_move/subscripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_initialize_inertial_translation_array",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_initialize_inertial_translation_array",
+  "parent":{
+    "name":"moves_on_3d_map",
+    "path":"folders/Scripts/moves_on_3d_map.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

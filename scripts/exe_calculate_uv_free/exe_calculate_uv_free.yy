@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_calculate_uv_free",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_calculate_uv_free",
+  "parent":{
+    "name":"uv_calculation",
+    "path":"folders/Scripts/vbuffs/functions/uv_calculation.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

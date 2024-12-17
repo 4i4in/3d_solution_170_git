@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_throw_fake_rclick_info",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_throw_fake_rclick_info",
+  "parent":{
+    "name":"menu_operations",
+    "path":"folders/Scripts/mouse_functions/menu_operations.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

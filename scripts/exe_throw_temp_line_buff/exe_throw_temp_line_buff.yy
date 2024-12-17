@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_throw_temp_line_buff",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_throw_temp_line_buff",
+  "parent":{
+    "name":"vbuffs",
+    "path":"folders/Scripts/vbuffs.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

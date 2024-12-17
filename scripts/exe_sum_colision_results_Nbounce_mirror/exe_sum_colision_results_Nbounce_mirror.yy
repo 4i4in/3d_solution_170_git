@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_sum_colision_results_Nbounce_mirror",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_sum_colision_results_Nbounce_mirror",
+  "parent":{
+    "name":"checks",
+    "path":"folders/Scripts/colisions/checks.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

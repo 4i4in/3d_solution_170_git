@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_create_time_control_menu",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_create_time_control_menu",
+  "parent":{
+    "name":"time_control_menu",
+    "path":"folders/Scripts/menu_templates/time_control_menu.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

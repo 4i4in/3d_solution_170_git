@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_start_typing_and_return",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_start_typing_and_return",
+  "parent":{
+    "name":"keyboard_typing",
+    "path":"folders/Scripts/keyboard_typing.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

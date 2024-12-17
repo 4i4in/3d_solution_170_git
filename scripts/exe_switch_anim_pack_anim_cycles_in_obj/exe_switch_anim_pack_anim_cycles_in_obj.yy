@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_switch_anim_pack_anim_cycles_in_obj",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_switch_anim_pack_anim_cycles_in_obj",
+  "parent":{
+    "name":"obj_editor",
+    "path":"folders/Scripts/menu_templates/obj_editor.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

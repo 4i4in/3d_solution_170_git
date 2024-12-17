@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_force_mouseover_false",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_force_mouseover_false",
+  "parent":{
+    "name":"menu_operations",
+    "path":"folders/Scripts/mouse_functions/menu_operations.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

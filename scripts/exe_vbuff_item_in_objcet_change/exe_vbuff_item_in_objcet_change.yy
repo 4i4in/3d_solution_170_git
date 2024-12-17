@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_vbuff_item_in_objcet_change",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_vbuff_item_in_objcet_change",
+  "parent":{
+    "name":"obj_editor",
+    "path":"folders/Scripts/menu_templates/obj_editor.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

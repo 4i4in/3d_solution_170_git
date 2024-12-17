@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_left_click_icon",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_left_click_icon",
+  "parent":{
+    "name":"menu_operations",
+    "path":"folders/Scripts/mouse_functions/menu_operations.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

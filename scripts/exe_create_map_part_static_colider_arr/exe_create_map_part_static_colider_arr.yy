@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_create_map_part_static_colider_arr",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_create_map_part_static_colider_arr",
+  "parent":{
+    "name":"colisions",
+    "path":"folders/Scripts/colisions.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

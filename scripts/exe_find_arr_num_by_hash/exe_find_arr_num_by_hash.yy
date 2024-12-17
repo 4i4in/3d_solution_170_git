@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_find_arr_num_by_hash",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_find_arr_num_by_hash",
+  "parent":{
+    "name":"functions",
+    "path":"folders/Scripts/menu_templates/time_control_menu/functions.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

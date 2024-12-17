@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_typing_by_keyboard",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_typing_by_keyboard",
+  "parent":{
+    "name":"keyboard_typing",
+    "path":"folders/Scripts/keyboard_typing.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_grab_map_art_reference_from_static_colider_array_v2",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_grab_map_art_reference_from_static_colider_array_v2",
+  "parent":{
+    "name":"colisions",
+    "path":"folders/Scripts/colisions.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

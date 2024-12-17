@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_scale_buff_by_code",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_scale_buff_by_code",
+  "parent":{
+    "name":"scaling_vbuff",
+    "path":"folders/Scripts/3d_operations/scaling_vbuff.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

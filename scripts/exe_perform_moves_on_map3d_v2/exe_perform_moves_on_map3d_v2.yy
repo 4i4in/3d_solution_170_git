@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_perform_moves_on_map3d_v2",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_perform_moves_on_map3d_v2",
+  "parent":{
+    "name":"map3d",
+    "path":"folders/Scripts/map3d.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

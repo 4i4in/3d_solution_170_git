@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_check_form_menu_with_auto_update",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_check_form_menu_with_auto_update",
+  "parent":{
+    "name":"menu_templates",
+    "path":"folders/Scripts/menu_templates.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_corect_normals_on_open_vbuff",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_corect_normals_on_open_vbuff",
+  "parent":{
+    "name":"3d_operations",
+    "path":"folders/Scripts/3d_operations.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

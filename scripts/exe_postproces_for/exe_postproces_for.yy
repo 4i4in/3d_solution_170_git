@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_postproces_for",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_postproces_for",
+  "parent":{
+    "name":"postprocess",
+    "path":"folders/Scripts/3d_drawing/postprocess.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

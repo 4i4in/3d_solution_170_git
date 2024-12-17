@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_return_hang_plane_direction",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_return_hang_plane_direction",
+  "parent":{
+    "name":"subscripts",
+    "path":"folders/Scripts/moves_on_3d_map/humanoid_sceleton_move/subscripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

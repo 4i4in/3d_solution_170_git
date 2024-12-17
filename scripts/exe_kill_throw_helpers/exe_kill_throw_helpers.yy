@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_kill_throw_helpers",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_kill_throw_helpers",
+  "parent":{
+    "name":"timeline_control",
+    "path":"folders/Scripts/timeline_control.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_update_cam_from_object_v2",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_update_cam_from_object_v2",
+  "parent":{
+    "name":"camera3d",
+    "path":"folders/Scripts/camera3d.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

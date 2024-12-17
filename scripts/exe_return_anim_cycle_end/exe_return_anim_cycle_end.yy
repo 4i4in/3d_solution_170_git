@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_return_anim_cycle_end",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_return_anim_cycle_end",
+  "parent":{
+    "name":"animations",
+    "path":"folders/Scripts/moves_on_3d_map/animations.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

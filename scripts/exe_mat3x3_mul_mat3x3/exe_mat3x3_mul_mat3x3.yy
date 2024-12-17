@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_mat3x3_mul_mat3x3",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_mat3x3_mul_mat3x3",
+  "parent":{
+    "name":"checks",
+    "path":"folders/Scripts/colisions/checks.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

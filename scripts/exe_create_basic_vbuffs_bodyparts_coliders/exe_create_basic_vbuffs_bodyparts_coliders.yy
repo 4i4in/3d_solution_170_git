@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_create_basic_vbuffs_bodyparts_coliders",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_create_basic_vbuffs_bodyparts_coliders",
+  "parent":{
+    "name":"sets_loading",
+    "path":"folders/Scripts/vbuffs/sets_loading.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

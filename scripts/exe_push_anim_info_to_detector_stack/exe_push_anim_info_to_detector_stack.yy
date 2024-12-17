@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_push_anim_info_to_detector_stack",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_push_anim_info_to_detector_stack",
+  "parent":{
+    "name":"subscripts",
+    "path":"folders/Scripts/moves_on_3d_map/humanoid_sceleton_move/subscripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

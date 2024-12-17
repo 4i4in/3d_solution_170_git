@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_preset_pad_results",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_preset_pad_results",
+  "parent":{
+    "name":"pad_functions",
+    "path":"folders/Scripts/pad_functions.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

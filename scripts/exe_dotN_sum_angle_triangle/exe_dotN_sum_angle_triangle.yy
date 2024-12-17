@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_dotN_sum_angle_triangle",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_dotN_sum_angle_triangle",
+  "parent":{
+    "name":"checks",
+    "path":"folders/Scripts/colisions/checks.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

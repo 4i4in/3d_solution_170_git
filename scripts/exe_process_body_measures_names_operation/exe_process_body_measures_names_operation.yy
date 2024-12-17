@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_process_body_measures_names_operation",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_process_body_measures_names_operation",
+  "parent":{
+    "name":"obj_editor",
+    "path":"folders/Scripts/menu_templates/obj_editor.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

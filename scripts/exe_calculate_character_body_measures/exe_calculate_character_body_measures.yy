@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_calculate_character_body_measures",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_calculate_character_body_measures",
+  "parent":{
+    "name":"load_by_posMat",
+    "path":"folders/Scripts/map3d/initializing_map/object_creation/load_by_posMat.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

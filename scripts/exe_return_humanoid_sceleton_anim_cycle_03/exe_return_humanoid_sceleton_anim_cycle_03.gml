@@ -1,0 +1,22 @@
+function exe_return_humanoid_sceleton_anim_cycle_03()
+{
+	var _struct =
+		{
+			//done
+			noone_cycle :			[],
+			
+			scrambling_R_fwd_01 :		[	["scrambling_fwd_passing_R",15,[0,1,1],["col_ass_fwd","col_shd_right","col_shd_left"]],	["scrambling_fwd_up_R",15,[0,1,1],["col_ass_fwd","col_shd_right","col_shd_left"]],	["scrambling_fwd_contact_R",10,[0,1,1],["rec_Ltoe","col_ass_fwd","col_shd_right","col_shd_left"]],	["scrambling_fwd_down_R",10,[0,1,1],["rec_Ltoe","col_ass_fwd","col_shd_right","col_shd_left"]],		["scrambling_fwd_ddown_R",10,[0,1,1],["rec_Ltoe","col_ass_fwd","col_shd_right","col_shd_left"]],			],
+			scrambling_L_fwd_01 :		[	["scrambling_fwd_passing_L",15,[0,1,1],["col_ass_fwd","col_shd_right","col_shd_left"]],	["scrambling_fwd_up_L",15,[0,1,1],["col_ass_fwd","col_shd_right","col_shd_left"]],	["scrambling_fwd_contact_L",10,[0,1,1],["rec_Rtoe","col_ass_fwd","col_shd_right","col_shd_left"]],	["scrambling_fwd_down_L",10,[0,1,1],["rec_Rtoe","col_ass_fwd","col_shd_right","col_shd_left"]],		["scrambling_fwd_ddown_L",10,[0,1,1],["rec_Rtoe","col_ass_fwd","col_shd_right","col_shd_left"]],			],
+			
+			scrambling_R_back_01 :		[	["scrambling_back_passing_R",15,[0,1,1],["col_ass_fwd","col_shd_right","col_shd_left"]],	["scrambling_back_up_R",10,[0,1,1],["col_ass_fwd","col_shd_right","col_shd_left"]],		["scrambling_fwd_down_R",8,[0,1,1],["rec_Ltoe","col_ass_fwd","col_shd_right","col_shd_left"]],		["scrambling_fwd_ddown_R",8,[0,1,1],["rec_Ltoe","col_ass_fwd","col_shd_right","col_shd_left"]],		["scrambling_back_d3own_R",8,[0,1,1],["rec_Ltoe","col_ass_fwd","col_shd_right","col_shd_left"]],				],
+			scrambling_L_back_01 :		[	["scrambling_back_passing_L",15,[0,1,1],["col_ass_fwd","col_shd_right","col_shd_left"]],	["scrambling_back_up_L",10,[0,1,1],["col_ass_fwd","col_shd_right","col_shd_left"]],		["scrambling_fwd_down_L",8,[0,1,1],["rec_Rtoe","col_ass_fwd","col_shd_right","col_shd_left"]],		["scrambling_fwd_ddown_L",8,[0,1,1],["rec_Rtoe","col_ass_fwd","col_shd_right","col_shd_left"]],		["scrambling_back_d3own_L",8,[0,1,1],["rec_Rtoe","col_ass_fwd","col_shd_right","col_shd_left"]],							],
+			
+			scrambling_R_left_01 :		[	["scrambling_fwd_down_L",15,[0,1,1],["col_ass_fwd","col_shd_right","col_shd_left"]],		["scrambling_fwd_up_R",15,[0,1,1],["col_ass_fwd","col_shd_right","col_shd_left"]],		["scrambling_fwd_contact_R",10,[0,1,1],["rec_Ltoe","col_ass_fwd","col_shd_right","col_shd_left"]],	["scrambling_fwd_down_R",8,[0,1,1],["rec_Ltoe","col_ass_fwd","col_shd_right","col_shd_left"]],		["scrambling_fwd_ddown_R",10,[0,1,1],["rec_Rtoe","col_ass_fwd","col_shd_right","col_shd_left"]],	["scrambling_back_d3own_R",8,[0,1,1],["rec_Rtoe","col_ass_fwd","col_shd_right","col_shd_left"]],		],
+			scrambling_L_left_01 :		[	["scrambling_left_passing_L",15,[0,1,1],["col_ass_fwd","col_shd_right","col_shd_left"]],	["scrambling_left_up_L",15,[0,1,1],["col_ass_fwd","col_shd_right","col_shd_left"]],		["scrambling_left_down_L",10,[0,1,1],["rec_Rtoe","col_ass_fwd","col_shd_right","col_shd_left"]],	["scrambling_fwd_ddown_L",8,[0,1,1],["rec_Rtoe","col_ass_fwd","col_shd_right","col_shd_left"]],		["scrambling_back_d3own_L",8,[0,1,1],["rec_Rtoe","col_ass_fwd","col_shd_right","col_shd_left"]],	],
+			
+			scrambling_R_right_01 :		[	["scrambling_right_passing_R",15,[0,1,1],["col_ass_fwd","col_shd_right","col_shd_left"]],	["scrambling_right_up_R",15,[0,1,1],["col_ass_fwd","col_shd_right","col_shd_left"]],	["scrambling_right_down_R",10,[0,1,1],["rec_Ltoe","col_ass_fwd","col_shd_right","col_shd_left"]],	["scrambling_fwd_ddown_R",10,[0,1,1],["rec_Ltoe","col_ass_fwd","col_shd_right","col_shd_left"]],	["scrambling_back_d3own_R",8,[0,1,1],["rec_Rtoe","col_ass_fwd","col_shd_right","col_shd_left"]],		],
+			scrambling_L_right_01 :		[	["scrambling_fwd_down_R",15,[0,1,1],["col_ass_fwd","col_shd_right","col_shd_left"]],		["scrambling_fwd_up_L",15,[0,1,1],["col_ass_fwd","col_shd_right","col_shd_left"]],		["scrambling_fwd_contact_L",10,[0,1,1],["rec_Rtoe","col_ass_fwd","col_shd_right","col_shd_left"]],	["scrambling_fwd_down_L",10,[0,1,1],["rec_Rtoe","col_ass_fwd","col_shd_right","col_shd_left"]],		["scrambling_fwd_ddown_L",10,[0,1,1],["rec_Rtoe","col_ass_fwd","col_shd_right","col_shd_left"]],	["scrambling_back_d3own_L",8,[0,1,1],["rec_Rtoe","col_ass_fwd","col_shd_right","col_shd_left"]],		],
+			
+		}
+	return(_struct);
+}

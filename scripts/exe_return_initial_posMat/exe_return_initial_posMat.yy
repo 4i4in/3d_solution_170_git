@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_return_initial_posMat",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_return_initial_posMat",
+  "parent":{
+    "name":"object_creation",
+    "path":"folders/Scripts/map3d/initializing_map/object_creation.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

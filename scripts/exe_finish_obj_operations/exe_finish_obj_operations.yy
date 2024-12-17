@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_finish_obj_operations",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_finish_obj_operations",
+  "parent":{
+    "name":"add_object",
+    "path":"folders/Scripts/map3d/add_object.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

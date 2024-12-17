@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_move_buff_by_vec3",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_move_buff_by_vec3",
+  "parent":{
+    "name":"3d_operations",
+    "path":"folders/Scripts/3d_operations.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

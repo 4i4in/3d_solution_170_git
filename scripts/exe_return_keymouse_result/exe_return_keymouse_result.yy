@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_return_keymouse_result",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_return_keymouse_result",
+  "parent":{
+    "name":"keymouse_function",
+    "path":"folders/Scripts/pad_functions/keymouse_function.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

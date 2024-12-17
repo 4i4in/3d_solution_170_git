@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_remove_anchor_in_object",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_remove_anchor_in_object",
+  "parent":{
+    "name":"animations",
+    "path":"folders/Scripts/moves_on_3d_map/animations.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

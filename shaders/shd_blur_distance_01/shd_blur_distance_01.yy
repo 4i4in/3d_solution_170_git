@@ -1,0 +1,12 @@
+{
+  "$GMShader":"",
+  "%Name":"shd_blur_distance_01",
+  "name":"shd_blur_distance_01",
+  "parent":{
+    "name":"Shaders",
+    "path":"folders/Shaders.yy",
+  },
+  "resourceType":"GMShader",
+  "resourceVersion":"2.0",
+  "type":1,
+}

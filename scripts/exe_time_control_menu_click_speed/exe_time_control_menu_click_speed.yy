@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_time_control_menu_click_speed",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_time_control_menu_click_speed",
+  "parent":{
+    "name":"functions",
+    "path":"folders/Scripts/menu_templates/time_control_menu/functions.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

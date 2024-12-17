@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_switch_split_screen",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_switch_split_screen",
+  "parent":{
+    "name":"function",
+    "path":"folders/Scripts/menu_templates/graphic_control_menu/function.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

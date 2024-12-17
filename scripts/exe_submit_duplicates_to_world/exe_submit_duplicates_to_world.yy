@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_submit_duplicates_to_world",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_submit_duplicates_to_world",
+  "parent":{
+    "name":"sub_functions",
+    "path":"folders/Scripts/3d_drawing/sub_functions.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

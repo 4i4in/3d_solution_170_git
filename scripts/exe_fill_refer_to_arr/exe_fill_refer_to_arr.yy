@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_fill_refer_to_arr",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_fill_refer_to_arr",
+  "parent":{
+    "name":"colisions",
+    "path":"folders/Scripts/colisions.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

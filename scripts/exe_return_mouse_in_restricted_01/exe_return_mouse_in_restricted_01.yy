@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_return_mouse_in_restricted_01",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_return_mouse_in_restricted_01",
+  "parent":{
+    "name":"menu_operations",
+    "path":"folders/Scripts/mouse_functions/menu_operations.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

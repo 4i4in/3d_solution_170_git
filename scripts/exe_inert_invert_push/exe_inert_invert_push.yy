@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_inert_invert_push",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_inert_invert_push",
+  "parent":{
+    "name":"subscripts",
+    "path":"folders/Scripts/moves_on_3d_map/humanoid_sceleton_move/subscripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

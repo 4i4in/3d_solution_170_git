@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_check_collision_line_vs_geometry_v2",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_check_collision_line_vs_geometry_v2",
+  "parent":{
+    "name":"checks",
+    "path":"folders/Scripts/colisions/checks.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

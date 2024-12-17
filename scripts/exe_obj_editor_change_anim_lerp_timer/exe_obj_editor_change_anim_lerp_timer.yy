@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_obj_editor_change_anim_lerp_timer",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_obj_editor_change_anim_lerp_timer",
+  "parent":{
+    "name":"obj_editor",
+    "path":"folders/Scripts/menu_templates/obj_editor.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

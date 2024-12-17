@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_create_test_menu",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_create_test_menu",
+  "parent":{
+    "name":"test_menu",
+    "path":"folders/Scripts/menu_templates/test_menu.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

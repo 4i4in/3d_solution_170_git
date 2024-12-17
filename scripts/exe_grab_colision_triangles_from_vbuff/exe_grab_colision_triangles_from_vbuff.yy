@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_grab_colision_triangles_from_vbuff",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_grab_colision_triangles_from_vbuff",
+  "parent":{
+    "name":"colisions",
+    "path":"folders/Scripts/colisions.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

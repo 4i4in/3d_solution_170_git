@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_return_middle_point3d",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_return_middle_point3d",
+  "parent":{
+    "name":"functions",
+    "path":"folders/Scripts/vbuffs/functions.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

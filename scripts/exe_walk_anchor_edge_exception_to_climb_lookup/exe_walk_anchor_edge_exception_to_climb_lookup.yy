@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_walk_anchor_edge_exception_to_climb_lookup",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_walk_anchor_edge_exception_to_climb_lookup",
+  "parent":{
+    "name":"_reason_for_check",
+    "path":"folders/Scripts/moves_on_3d_map/humanoid_sceleton_move/_reason_for_check.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

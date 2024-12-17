@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_vbuff_bs_x_bs_cube_oriented",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_vbuff_bs_x_bs_cube_oriented",
+  "parent":{
+    "name":"vbuffs",
+    "path":"folders/Scripts/vbuffs.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_object_template",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_object_template",
+  "parent":{
+    "name":"add_object",
+    "path":"folders/Scripts/map3d/add_object.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_move_menu_by_click",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_move_menu_by_click",
+  "parent":{
+    "name":"menu_templates",
+    "path":"folders/Scripts/menu_templates.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

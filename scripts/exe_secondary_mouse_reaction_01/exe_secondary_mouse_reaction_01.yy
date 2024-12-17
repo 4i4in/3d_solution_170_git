@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_secondary_mouse_reaction_01",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_secondary_mouse_reaction_01",
+  "parent":{
+    "name":"mouse_functions",
+    "path":"folders/Scripts/mouse_functions.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

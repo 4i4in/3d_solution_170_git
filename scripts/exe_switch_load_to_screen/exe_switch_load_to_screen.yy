@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_switch_load_to_screen",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_switch_load_to_screen",
+  "parent":{
+    "name":"functions",
+    "path":"folders/Scripts/menu_templates/menu_of_menus/functions.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_play_pause_obj_activity_control",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_play_pause_obj_activity_control",
+  "parent":{
+    "name":"timeline_control",
+    "path":"folders/Scripts/timeline_control.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

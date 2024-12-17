@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_return_map_part_ref",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_return_map_part_ref",
+  "parent":{
+    "name":"map3d",
+    "path":"folders/Scripts/map3d.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_destroy_cam_surf",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_destroy_cam_surf",
+  "parent":{
+    "name":"camera3d",
+    "path":"folders/Scripts/camera3d.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_create_mouse_menu",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_create_mouse_menu",
+  "parent":{
+    "name":"mouse_menu",
+    "path":"folders/Scripts/menu_templates/mouse_menu.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

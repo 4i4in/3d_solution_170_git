@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_return_from_srf_pixel_color",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_return_from_srf_pixel_color",
+  "parent":{
+    "name":"mouse_functions",
+    "path":"folders/Scripts/mouse_functions.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

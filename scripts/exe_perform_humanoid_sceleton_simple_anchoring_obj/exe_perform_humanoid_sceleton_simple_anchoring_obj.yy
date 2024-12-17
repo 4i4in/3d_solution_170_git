@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_perform_humanoid_sceleton_simple_anchoring_obj",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_perform_humanoid_sceleton_simple_anchoring_obj",
+  "parent":{
+    "name":"_reason_for_check",
+    "path":"folders/Scripts/moves_on_3d_map/humanoid_sceleton_move/_reason_for_check.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

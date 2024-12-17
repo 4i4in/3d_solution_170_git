@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_create_fast_check_scheeme_for_colisions",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_create_fast_check_scheeme_for_colisions",
+  "parent":{
+    "name":"colisions",
+    "path":"folders/Scripts/colisions.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

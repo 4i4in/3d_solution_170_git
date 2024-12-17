@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_vbuff_100x100_inverted_orientation",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_vbuff_100x100_inverted_orientation",
+  "parent":{
+    "name":"vbuffs",
+    "path":"folders/Scripts/vbuffs.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

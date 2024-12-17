@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_next_pose_anim_random_in_cycle",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_next_pose_anim_random_in_cycle",
+  "parent":{
+    "name":"animations",
+    "path":"folders/Scripts/moves_on_3d_map/animations.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

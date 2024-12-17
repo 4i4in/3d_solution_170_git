@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_explain_pixel_colors_check",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_explain_pixel_colors_check",
+  "parent":{
+    "name":"mouse_functions",
+    "path":"folders/Scripts/mouse_functions.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
